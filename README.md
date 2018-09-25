@@ -1,6 +1,9 @@
 # brankPage
 とりあえず `index.html` を置いておきたいとき用に作りました。
 
+## デモ
+https://skawashima.github.io/brankPage/
+
 ## 使い方
 `index.html` を置く
 
